@@ -1,4 +1,4 @@
-# OpenPII Watcher - Live Web Demo 🔍
+# OpenPII Watcher - Live Web Demo 
 
 **Detect PII in Publicly Shared Documents**
 
@@ -6,7 +6,7 @@
 
 ---
 
-## 🌐 Try It Now
+##  Try It Now
 
 **→ [Launch Web Demo](https://suryacs719.github.io/cse253-openPII-web/)**
 
@@ -14,18 +14,18 @@ Simply paste a Google Docs or Pastebin URL to detect exposed PII instantly.
 
 ---
 
-## ✨ Features
+##  Features
 
-- 🔍 **Real-time PII Detection** - Analyze documents in seconds
-- 🛡️ **Privacy-First** - All processing happens in your browser
-- 📊 **Risk Assessment** - Automatic HIGH/MEDIUM/LOW risk classification
-- 💡 **Security Recommendations** - Actionable advice for each document
-- 🎯 **6 PII Types** - Emails, phones, names, addresses, SSN, credit cards
-- 🌐 **Multi-Platform** - Supports Google Docs and Pastebin
+-  **Real-time PII Detection** - Analyze documents in seconds
+-  **Privacy-First** - All processing happens in your browser
+-  **Risk Assessment** - Automatic HIGH/MEDIUM/LOW risk classification
+-  **Security Recommendations** - Actionable advice for each document
+-  **6 PII Types** - Emails, phones, names, addresses, SSN, credit cards
+-  **Multi-Platform** - Supports Google Docs and Pastebin
 
 ---
 
-## 🎯 How to Use
+##  How to Use
 
 ### 1. Open the Demo
 Click the link above or open `index.html` locally
@@ -48,7 +48,7 @@ The system will:
 
 ---
 
-## 📊 Detection Accuracy
+##  Detection Accuracy
 
 Based on evaluation with 16 synthetic test documents:
 
@@ -65,7 +65,7 @@ Based on evaluation with 16 synthetic test documents:
 
 ---
 
-## 🧪 Try With Test Data
+##  Try With Test Data
 
 ### Quick Test - Contact List
 ```
@@ -84,7 +84,7 @@ Project Team:
 
 ---
 
-## 🏗️ How It Works
+##  How It Works
 
 ### Platform Integration
 
@@ -116,7 +116,7 @@ Project Team:
 
 ---
 
-## 🎓 Academic Project
+##  Academic Project
 
 **Course:** CSE 253 - Network Security (Graduate)  
 **Institution:** UC Santa Cruz  
@@ -131,7 +131,7 @@ Project Team:
 
 ---
 
-## 📁 Files
+## Files
 
 ```
 index.html           - Main web application
@@ -145,25 +145,25 @@ content_fetcher.js   - Platform-specific content fetching
 
 ---
 
-## 🔒 Privacy & Security
+##  Privacy & Security
 
-### What We Do ✅
+### What We Do 
 - Process all content locally in your browser
 - Use client-side JavaScript for detection
 - Provide transparent, auditable regex patterns
 
-### What We DON'T Do ❌
+### What We DON'T Do 
 - Store any analyzed content
 - Send data to our servers (we don't have any!)
 - Track users or collect analytics
 - Require registration or login
 
-### CORS Proxy Note ⚠️
+### CORS Proxy Note 
 For some Google Docs, we use `api.allorigins.win` as a fallback proxy. Document content passes through this service if direct fetch fails. Use with caution for highly sensitive documents.
 
 ---
 
-## 🚀 Local Development
+##  Local Development
 
 ### Run Locally
 ```bash
@@ -190,7 +190,7 @@ open index.html
 
 ---
 
-## 📊 Performance
+##  Performance
 
 - **Detection Speed:** < 1 second per document
 - **Supported PII Types:** 6 (email, phone, name, address, SSN, credit card)
@@ -199,7 +199,7 @@ open index.html
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 
 This is an academic project, but feedback and suggestions are welcome!
 
@@ -209,29 +209,13 @@ This is an academic project, but feedback and suggestions are welcome!
 
 ---
 
-## 📝 Citation
-
-If you use this tool in your research, please cite:
-
-```bibtex
-@misc{openpii-watcher-2024,
-  title={OpenPII Watcher: Detecting PII in Publicly Shared Documents},
-  author={Valavala, Suryakiran and Advani, Arsh and Ramamoorthy, Vijay Arvind},
-  year={2024},
-  institution={UC Santa Cruz},
-  course={CSE 253: Network Security}
-}
-```
-
----
-
-## ⚖️ License
+##  License
 
 Educational project for CSE 253 at UC Santa Cruz.
 
 ---
 
-## 🔗 Links
+##  Links
 
 - **Live Demo:** https://suryacs719.github.io/cse253-openPII-web/
 - **GitHub Repository:** https://github.com/SuryaCS719/cse253-openPII-web
@@ -240,7 +224,7 @@ Educational project for CSE 253 at UC Santa Cruz.
 
 ---
 
-## 📧 Contact
+##  Contact
 
 For questions about this project:
 - Suryakiran Valavala: suvalava@ucsc.edu
@@ -249,7 +233,4 @@ For questions about this project:
 
 ---
 
-**Made with ❤️ at UC Santa Cruz**
-
-*Protecting privacy, one document at a time* 🛡️
 
